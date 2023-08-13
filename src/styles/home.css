@@ -1,0 +1,56 @@
+body {
+    background-image: url(https://images3.alphacoders.com/132/1326193.png);
+}
+
+.logo {
+    width: 90px;
+}
+
+.backgrounds {
+    background-image: url(https://static.vecteezy.com/system/resources/previews/007/359/962/large_2x/galaxy-stars-in-the-universe-outside-earth-abstract-graphic-design-wallpaper-card-3d-free-photo.jpg);
+}
+
+.navbar-image {
+    background-image: url(https://usagif.com/wp-content/uploads/2021/06/71.gif);
+    background-position: 10% 75%;
+    background-size: 1800px 200px;
+    background-repeat: no-repeat;
+
+}
+
+.character-description-image {
+    width: 270px;
+    height: 350px;
+    border-radius: 10px;
+}
+
+.vehicle-description-image {
+    width: 350px;
+    height: 250px;
+    border-radius: 10px;
+}
+
+.planet-description-image {
+    width: 330px;
+    height: 330px;
+    border-radius: 157px;
+}
+
+.card-images {
+    width: 380px;
+    height: 350px;
+}
+
+.swords {
+    width: 40px;
+    height: 40px;
+}
+
+.deleteIcon {
+    width: 30px;
+    height: 30px;
+}
+
+.millenium-falcon {
+    rotate: 50deg;
+}
